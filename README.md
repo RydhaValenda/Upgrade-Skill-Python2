@@ -5,3 +5,5 @@ Tes Penggunaan Git
     -Membuka project yang sudah diclone
     -Merubah file
     -Mengirim file ke github
+    -Merubah melalui github 
+     -Men-pull ke lokal
