@@ -13,5 +13,5 @@ Tes Penggunaan Git
     - Bekerja tidak pada master, namun pada branch tersendiri
     - Men-Push branch baru tersebut (atau men-push jika sudah commit)
     - Merubah kode pada branch tersebut
-    - Meng-commit kode
+    - Meng-commit kode dan me-review pada file terlebih dahulu
     - Men-push branch tersebut
