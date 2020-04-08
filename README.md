@@ -19,3 +19,6 @@ Tes Penggunaan Git
     -Merubah melalui github 
     -Men-pull ke lokal
     
+##  Kesimpulan menggunakan GIT
+    - Dengan Git dan Github, kode akan aman dari hard-disk rusak
+    - Memiliki repository Github yang public, akan menjadikan repository tersebut sebagai portofolio
