@@ -1,7 +1,7 @@
 # Upgrade-Skill-Python
 Tes Penggunaan Git
 
-## Menggunakan GIT dengan Coammand Line
+## Menggunakan GIT dengan Command Line
     - Buat SSH Keys
     - Upload ke Github
     - Buat repository
