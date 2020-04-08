@@ -1,6 +1,10 @@
 # Upgrade-Skill-Python
-Tes Penggunaan Git
+Instalasi dan Tes Penggunaan Git
 
+## Instalasi Git
+    - Menggunakan linux, cukup dengan apt install git
+    - Menggunakan windows, dengan mendownload tool Git di https://git-scm.com/downloads
+     
 ## Menggunakan GIT dengan Command Line
     - Buat SSH Keys
     - Upload ke Github
@@ -13,11 +17,12 @@ Tes Penggunaan Git
     - Kirim perubahan ke github dengan git push
     
 ## Menggunakan GIT dengan PyCharm
-    -Membuka project yang sudah diclone
-    -Merubah file
-    -Mengirim file ke github
-    -Merubah melalui github 
-    -Men-pull ke lokal
+    - Pastikan menggunakan PyCharm terkini
+    - Membuka project yang sudah diclone
+    - Merubah file
+    - Mengirim file ke github
+    - Merubah melalui github 
+    - Men-pull ke lokal
 
 ## Menggunakan GIT di Team
     - Mulai bekerja dengan melihat ke Issue Tracker
@@ -30,3 +35,4 @@ Tes Penggunaan Git
 ##  Kesimpulan menggunakan GIT
     - Dengan Git dan Github, kode akan aman dari hard-disk rusak
     - Memiliki repository Github yang public, akan menjadikan repository tersebut sebagai portofolio
+    
