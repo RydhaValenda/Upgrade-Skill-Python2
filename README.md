@@ -8,7 +8,7 @@ Tes Penggunaan Git
     -Merubah melalui github 
     -Men-pull ke lokal
     
-## Menggunakan GIT di TEam
+## Menggunakan GIT di Team
     - Mulai bekerja dengan melihat ke Issue Tracker
     - Bekerja tidak pada master, namun pada branch tersendiri
     - Men-Push branch baru tersebut (atau men-push jika sudah commit)
