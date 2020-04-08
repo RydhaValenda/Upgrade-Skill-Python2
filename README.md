@@ -6,4 +6,4 @@ Tes Penggunaan Git
     -Merubah file
     -Mengirim file ke github
     -Merubah melalui github 
-     -Men-pull ke lokal
+    -Men-pull ke lokal
