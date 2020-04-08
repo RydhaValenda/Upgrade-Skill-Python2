@@ -18,7 +18,15 @@ Tes Penggunaan Git
     -Mengirim file ke github
     -Merubah melalui github 
     -Men-pull ke lokal
-    
+
+## Menggunakan GIT di Team
+    - Mulai bekerja dengan melihat ke Issue Tracker
+    - Bekerja tidak pada master, namun pada branch tersendiri
+    - Men-Push branch baru tersebut (atau men-push jika sudah commit)
+    - Merubah kode pada branch tersebut
+    - Meng-commit kode dan me-review pada file terlebih dahulu
+    - Men-push branch tersebut
+
 ##  Kesimpulan menggunakan GIT
     - Dengan Git dan Github, kode akan aman dari hard-disk rusak
     - Memiliki repository Github yang public, akan menjadikan repository tersebut sebagai portofolio
